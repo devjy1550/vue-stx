@@ -1,7 +1,5 @@
-import {
-  createStore
-} from "vuex";
-import stxStore from './Modules/stxStore'
+import { createStore } from "vuex";
+import stxStore from "./Modules/stxStore";
 
 export default createStore({
   // state: {
@@ -159,6 +157,6 @@ export default createStore({
   // mutations: {},
   // getters: {}
   modules: {
-    stxStore
-  }
+    stxStore,
+  },
 });

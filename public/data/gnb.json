@@ -1,122 +1,61 @@
-[{
-  "mainLink": "#",
-  "mainTitle": "회사소개",
-  "subData": [{
-      "subLink": "#",
-      "subTitle": "인사말"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "STX건설"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "기업문화"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "STX건설연혁"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "조직안내"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "윤리경영"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "안전·환경·품질경영"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "찾아오시는길"
-    }
-  ]
-}, {
-  "mainLink": "#",
-  "mainTitle": "사업분야",
-  "subData": [{
-      "subLink": "#",
-      "subTitle": "건축사업"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "주택사업"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "토목사업"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "플랜트/공작기계사업"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "해외사업"
-    }
-  ]
-
-}, {
-  "mainLink": "#",
-  "mainTitle": "사회공헌",
-  "subData": [{
-      "subLink": "#",
-      "subTitle": "나눔의생각"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "주요활동분야"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "활동현황"
-    }
-  ]
-}, {
-  "mainLink": "#",
-  "mainTitle": "홍보센터",
-  "subData": [{
-      "subLink": "#",
-      "subTitle": "홍보동영상"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "홍보브로슈어"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "STX건설뉴스"
-    }
-  ]
-}, {
-  "mainLink": "#",
-  "mainTitle": "고객지원",
-  "subData": [{
-      "subLink": "#",
-      "subTitle": "자주묻는질문"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "고객문의"
-    }
-  ]
-}, {
-  "mainLink": "#",
-  "mainTitle": "채용정보",
-  "subData": [{
-      "subLink": "#",
-      "subTitle": "채용안내"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "채용공고"
-    },
-    {
-      "subLink": "#",
-      "subTitle": "채용FAQ"
-    }
-  ]
-}]
+[
+  {
+    "mainlink": "#",
+    "maintxt": "회사소개",
+    "subdata": [
+      { "sublink": "#", "subtxt": "인사말" },
+      { "sublink": "#", "subtxt": "STX건설" },
+      { "sublink": "#", "subtxt": "기업문화" },
+      { "sublink": "#", "subtxt": "STX건설연혁" },
+      { "sublink": "#", "subtxt": "조직안내" },
+      { "sublink": "#", "subtxt": "윤리경영" },
+      { "sublink": "#", "subtxt": "인안전·환경·품질경영사말" },
+      { "sublink": "#", "subtxt": "찾아오시는길" }
+    ]
+  },
+  {
+    "mainlink": "#",
+    "maintxt": "사업분야",
+    "subdata": [
+      { "sublink": "#", "subtxt": "건축사업" },
+      { "sublink": "#", "subtxt": "주택사업" },
+      { "sublink": "#", "subtxt": "토목사업" },
+      { "sublink": "#", "subtxt": "플랜트/공작기계사업" }
+    ]
+  },
+  {
+    "mainlink": "#",
+    "maintxt": "사회공헌",
+    "subdata": [
+      { "sublink": "#", "subtxt": "나눔의생각" },
+      { "sublink": "#", "subtxt": "주요활동분야" },
+      { "sublink": "#", "subtxt": "활동현황" }
+    ]
+  },
+  {
+    "mainlink": "#",
+    "maintxt": "홍보센터",
+    "subdata": [
+      { "sublink": "#", "subtxt": "홍보동영상" },
+      { "sublink": "#", "subtxt": "홍보브로슈어" },
+      { "sublink": "#", "subtxt": "STX건설뉴스" }
+    ]
+  },
+  {
+    "mainlink": "#",
+    "maintxt": "고객지원",
+    "subdata": [
+      { "sublink": "#", "subtxt": "자주묻는질문" },
+      { "sublink": "#", "subtxt": "고객문의" }
+    ]
+  },
+  {
+    "mainlink": "#",
+    "maintxt": "채용정보",
+    "subdata": [
+      { "sublink": "#", "subtxt": "채용안내" },
+      { "sublink": "#", "subtxt": "채용공고" },
+      { "sublink": "#", "subtxt": "채용FAQ" }
+    ]
+  }
+]
